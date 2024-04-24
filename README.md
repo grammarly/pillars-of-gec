@@ -1,7 +1,6 @@
 
 # pillars-of-gec
-This repository provides code, state-of-the art predictions and links to the pretrained Grammatical Error Correction models for **"Pillars of Grammatical Error Correction: Comprehensive Inspection Of Contemporary Approaches In The Era of Large Language Models"** paper which was accepted for publication at <a href="https://sig-edu.org/bea/2024">BEA-2024</a> (19th Workshop on Innovative Use of NLP for Building Educational Applications; co-located with <a href="https://2024.naacl.org/">NAACL 2024</a>).
-
+This repository provides code, state-of-the art predictions and links to the pretrained Grammatical Error Correction models for <a href="https://arxiv.org/abs/2404.14914">"Pillars of Grammatical Error Correction: Comprehensive Inspection Of Contemporary Approaches In The Era of Large Language Models"</a> paper which was accepted for publication at <a href="https://sig-edu.org/bea/2024">BEA-2024</a> (19th Workshop on Innovative Use of NLP for Building Educational Applications; co-located with <a href="https://2024.naacl.org/">NAACL 2024</a>).
 
 # Structure
 `Scripts` directory contain required code to reproduce some of the baselines and build ensembles.  
