@@ -1,6 +1,6 @@
 
 # pillars-of-gec
-This repository provides code, state-of-the art predictions and links to the pretrained Grammatical Error Correction models for **"Pillars of Grammatical Error Correction: Comprehensive Inspection Of Contemporary Approaches In The Era of Large Language Models"** paper which was accepted for publication at <a href="https://sig-edu.org/bea/2024">BEA-2024</a> (19th Workshop on Innovative Use of NLP for Building Educational Applications; co-located with <a href="https://2024.naacl.org/">NAACL 2024</a>). [proper citiation will be added soon]
+This repository provides code, state-of-the art predictions and links to the pretrained Grammatical Error Correction models for **"Pillars of Grammatical Error Correction: Comprehensive Inspection Of Contemporary Approaches In The Era of Large Language Models"** paper which was accepted for publication at <a href="https://sig-edu.org/bea/2024">BEA-2024</a> (19th Workshop on Innovative Use of NLP for Building Educational Applications; co-located with <a href="https://2024.naacl.org/">NAACL 2024</a>).
 
 
 # Structure
@@ -163,4 +163,17 @@ M2_SCORER=path_to_m2scorer
 M2_FILE=data/evaluation_sets/nucle14-2a.m2
 PRED_FILE=YOUR_PRED_FILE.txt
 $M2_SCORER $PRED_FILE $M2_FILE >> {{reslut}}
+```
+
+## Citation
+[to be updated once proceedings are published]
+```
+@misc{omelianchuk2024pillars,
+      title={Pillars of Grammatical Error Correction: Comprehensive Inspection Of Contemporary Approaches In The Era of Large Language Models}, 
+      author={Kostiantyn Omelianchuk and Andrii Liubonko and Oleksandr Skurzhanskyi and Artem Chernodub and Oleksandr Korniienko and Igor Samokhin},
+      year={2024},
+      eprint={2404.14914},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
