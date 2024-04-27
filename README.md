@@ -113,10 +113,10 @@ Table bellow contain single system scores and links to trained models available 
     <td>73.1</td> 
   </tr>
  <tr>
-    <td>Majority-voting ensemble (best 7)</a></td>
-    <td><strong>83.7</strong></td>
+    <td>Majority-voting ensemble (best 7)</td>
+    <td>83.7</td>
     <td>45.7</td>
-    <td><strong>71.8</strong></td> 
+    <td>71.8</td> 
     <td><strong>71.7</strong></td>
     <td>42.2</td>
     <td><strong>62.9</strong></td> 
@@ -125,6 +125,16 @@ Table bellow contain single system scores and links to trained models available 
     <td><strong>81.4</strong></td> 
   </tr>
 
+  <td>MAJORITY-VOTING ✚[ majority-voting(best 7), GRECO-rank-w(best 7), GPT-4-rank-a(clust 3) ]</td>
+    <td><strong>83.9</strong></td>
+    <td>47.5</td>
+    <td><strong>72.8</strong></td> 
+    <td>70.6</td>
+    <td>43.5</td>
+    <td>62.8</td> 
+    <td>86.1</td>
+    <td>65.6</td>
+    <td>81.1</td>
 </table>
 
 
